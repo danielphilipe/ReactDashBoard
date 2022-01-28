@@ -7,9 +7,9 @@ import { Container } from "./styles";
 
 const Dashboard: React.FC = () =>{
     const month = [
-        {value: 'Janeiro', label: 'Janeiro'},
-        {value: 'Fevereiro', label: 'Fevereiro'},
-        {value: 'Março', label: 'Março'}]
+        {value: 1, label: 'Janeiro'},
+        {value: 2, label: 'Fevereiro'},
+        {value: 3, label: 'Março'}]
     
 
     return (
